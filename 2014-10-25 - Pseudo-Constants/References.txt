@@ -1,0 +1,83 @@
+Focusing Talks:
+https://www.facebook.com/note.php?note_id=536820369684165
+
+TypeCodes:
+http://www.service-architecture.com/articles/object-relational-mapping/type_codes.html
+
+Lookup table:
+http://en.wikipedia.org/wiki/Lookup_table
+
+Magic Numbers:
+http://stackoverflow.com/questions/617143/what-are-some-good-strategies-for-dealing-with-magic-numbers-in-your-database
+http://stackoverflow.com/questions/1046843/getting-rid-of-magic-numbers-in-sql-server
+http://stackoverflow.com/questions/2001375/sql-avoiding-hard-coding-or-magic-numbers
+http://www.hedgate.net/articles/2006/10/04/stored-procedure-guidelines-avoid-magic-numbers/
+
+
+Magic Numbers with View: Good Answer
+http://stackoverflow.com/questions/4441436/how-do-i-use-enums-in-tsql-without-hard-coding-magic-number-all-over-my-sql-scri?rq=1
+
+http://stackoverflow.com/questions/24548524/hard-coding-or-magic-literals-improve-performance-in-sql-server-stored-procedure?rq=1
+
+Parameters vs Literals:
+http://blogs.msdn.com/b/ianjo/archive/2005/11/10/491538.aspx
+
+Table of Constants:
+http://dba.stackexchange.com/questions/15619/table-of-constants-is-this-common-practice/15631#15631
+
+ENUM in SQL:
+http://stackoverflow.com/questions/2947353/how-to-define-enum-in-sql-server-2005/2947405#2947405
+http://stackoverflow.com/questions/262802/does-sql-server-2005-have-an-equivalent-to-mysqls-enum-data-type
+
+ENUM/Constants in SQL Connect Item:
+http://connect.microsoft.com/SQLServer/feedbackdetail/view/254293/allow-literals-and-read-only-table-data-to-be-represented-as-enums
+https://connect.microsoft.com/SQLServer/feedback/details/784980/tsql-constants-for-coding-and-for-better-plans-and-faster-execution
+https://connect.microsoft.com/SQLServer/feedbackdetail/view/533825/add-constants-to-tsql-for-better-query-plans (dupe)
+https://connect.microsoft.com/SQLServer/feedbackdetail/view/404252/use-of-constants-in-sql (closed as won’t fix)
+
+Scalar Expressions:
+https://connect.microsoft.com/SQLServer/feedback/details/273443/the-scalar-expression-function-would-speed-performance-while-keeping-the-benefits-of-functions
+
+Enums:
+http://www.4guysfromrolla.com/articles/042804-1.aspx
+
+Magic Numbers:
+http://en.wikipedia.org/wiki/Magic_number_(programming)
+
+Scalar Functions:
+http://sqlblog.com/blogs/adam_machanic/archive/2006/08/03/scalar-functions-inlining-and-performance-an-entertaining-title-for-a-boring-post.aspx
+
+Inline vs View:
+http://stackoverflow.com/questions/988373/difference-between-a-inline-function-and-a-view
+
+TVP vs Large XML – Record Existence Check:
+http://stackoverflow.com/questions/23596460/table-valued-parameter-vs-large-xml-document-speeding-up-record-existence-chec
+
+XPath:
+http://sqljudo.wordpress.com/2013/12/02/xpath-for-the-sql-server-dba/
+http://sqljudo.wordpress.com/2013/12/13/xquery-for-the-sql-server-dba-part-one/
+http://www.w3schools.com/xpath/xpath_syntax.asp
+
+Pseudo-Constants
+
+http://blogs.msdn.com/b/sql_server_appendix_z/archive/2013/09/16/sql-server-variables-parameters-or-literals-or-constants.aspx
+
+Table of Constants
+
+http://www.sqlservercentral.com/Forums/Topic1200728-392-1.aspx
+
+
+Using human-readable constants in queries:
+
+http://stackoverflow.com/questions/21882384/using-human-readable-constants-in-queries
+
+TSQL Constants… Use Variable or Literal?:
+
+http://stackoverflow.com/questions/459173/tsql-constants-use-variable-or-literal?rq=1
+
+Is there a way to make a TSQL variable constant?
+
+http://stackoverflow.com/questions/26652/is-there-a-way-to-make-a-tsql-variable-constant
+
+
+Also for codes which don’t have their own table, at least have calc function and refer to it in the table definition.

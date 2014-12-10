@@ -1,0 +1,4 @@
+- Make sure have dongles
+- Fill out resource section
+- Run through tests
+- Test QR Code

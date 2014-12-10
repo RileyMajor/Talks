@@ -1,0 +1,65 @@
+1.	Title Page
+2.	What are we talking about?
+	a.	Magic Numbers
+	b.	Constants
+	c.	Enums
+	d.	Lookup Tables
+	e.	Code Tables
+3.	Definition
+	a.	Small Code Value (number or short string)
+	b.	Infrequently Changing (preferably developer controlled)
+	c.	Referenced frequently in code.
+4.	Ubiquity
+	a.	Everyone Has Them and They’re All Over
+	b.	Examples
+		i.	Order statuses
+		ii.	Sizes
+		iii.	Shipping Types
+5.	Traditional Options
+	a.	Hard-coded Numbers
+		i.	Fast performance.
+		ii.	Maintenance nightmare.
+	b.	JOINs to Tables
+		i.	Slightly inferior performance.
+		ii.	More tables in query.
+		iii.	Hard-coded strings.
+6.	Mitigation Options
+	a.	Variables
+		i.	Extra Code
+		ii.	Optimizer Problems
+			1.	OPTIMIZE FOR
+		iii.	Hard-coded strings.
+	b.	Scalar User-Defined Functions
+		i.	Poor Performance
+		ii.	Less Code
+		iii.	Hard-coded strings
+7.	Pseudo-Constant Functions
+	a.	Advantages:
+		i.	No Performance Hit
+		ii.	Less Code
+		iii.	IntelliSense
+		iv.	Compile-time Enforcement
+	b.	Disadvantages:
+		i.	Still hard-coded values
+		ii.	Duplicated values
+		iii.	Synchronization Issues
+	c.	Standard Use
+		i.	CROSS APPLY
+		ii.	JOIN (ON)
+		iii.	JOIN (WHERE)
+		iv.	CROSS JOIN
+8.	Advanced
+	a.	Specialized Logic (Code Sets)
+	b.	Vertical Rather Than Horizontal
+		i.	Eliminate table hit, but no IntelliSense and still hard-coded values
+		ii.	Unless you combine, which seems like overkill
+	c.	Describe Manna’s Inline User-Defined Functions Parameter Bloat
+	d.	Can use Views instead
+	e.	Can’t use in Calculated Fields Directly
+		i.	Need to wrap with Scalar UDF
+		ii.	To use Persisted, everything needs WITH SCHEMABINDING
+	f.	Can’t Use In-line UDFs With Indexed Views
+	g.	Not Usable in Filtered Indexes Themselves
+	i.	But will the system use filtered index when referenced by pseudo-const?
+	h.	Automatic Rebuilding of Pseudo-Constant Functions
+		i.	Be careful of code values
