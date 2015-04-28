@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Pseudo-Constants - 2015-04-11", "Pseudo-Constants - 2015-04-11\Pseudo-Constants - 2015-04-11.ssmssqlproj", "{79220F3D-2345-4E02-8CDE-4A4D7FFEFCF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79220F3D-2345-4E02-8CDE-4A4D7FFEFCF0}.Default|Default.ActiveCfg = Default
+		{CED9AE61-7C71-4C60-A8EB-0FC0C8CFA754}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
