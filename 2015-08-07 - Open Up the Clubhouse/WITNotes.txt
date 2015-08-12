@@ -1,0 +1,313 @@
+What’s wrong?
+ 
+We have a problem.
+ 
+	83% of Google’s tech workers are male.
+	http://www.motherjones.com/media/2014/05/google-diversity-labor-gender-race-gap-workers-silicon-valley
+ 
+	84% of Microsoft’s tech workers are male.
+	http://www.cnet.com/news/women-in-tech-the-numbers-dont-add-up/
+ 
+	90% of Twitter’s tech workers are male.
+	http://www.cnet.com/news/women-in-tech-the-numbers-dont-add-up/
+ 
+	92% of Stack Overflow Developer Survey Responses were male.
+	http://stackoverflow.com/research/developer-survey-2015
+
+
+
+No women in Silicon Valley
+                http://www.theguardian.com/technology/2015/mar/08/sexism-silicon-valley-women
+ 
+183 of 6,517 of companies getting VC had women CEOs
+http://www.babson.edu/Academics/centers/blank-center/global-research/diana/Documents/diana-project-executive-summary-2014.pdf
+http://quibb.com/links/will-a-50-50-pledge-help-fix-gender-equality-in-tech/view
+ 
+< 3% Women Tech Founders
+http://www.theguardian.com/technology/2015/mar/08/sexism-silicon-valley-women
+
+Micro-aggressions
+
+Keynote: "How many times a day does your mother interact with software? That number is starting to approach once per minute." 
+ 
+If orgs say “speak up more”, it’s their failing.
+https://twitter.com/sarahmei/status/604299315964551170
+ 
+Female founder erased
+ 
+Intersectionality
+-          14 black women out of 2910 US workers at Twitter – less than half a percent
+-          http://www.theguardian.com/technology/2015/jul/01/twitter-staff-african-american-diversity
+
+Male Privilege
+http://www.buzzfeed.com/jamesstjamesvi/male-privilege-from-a-trans-guyas-perspective-1mcmp#.qd3QXNb1L
+https://xyfeminist.wordpress.com/the-male-privilege-list/
+http://geekfeminism.wikia.com/wiki/Male_Programmer_Privilege_Checklist
+
+Microaggression
+http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/
+http://www.ripariandata.com/truth-in-tech/techs-culture-of-microaggressions
+ 
+Why is this a problem?
+ 
+
+We need all the tech we can get.
+
+Leads to Harassment
+"• 63 percent of women in STEM fields report experiencing sexual harassment.”
+http://www.bizjournals.com/portland/blog/techflash/2015/02/startup-week-women-minorities-are-in-tech-here-are.html
+
+ 
+Ashe Dryden
+http://www.ashedryden.com/blog/the-risk-in-speaking-up
+http://www.ashedryden.com/
+ 
+ 
+“It’s Different for Girls”
+http://heidiroizen.tumblr.com/post/84530650750/its-different-for-girls
+ 
+ 
+Deadly Problem
+Since 2000, suicide is the leading cause of death of women aged 15 to 19, worldwide.
+“The most probable reason is gender discrimination.” - Vikram Patel, co-founder of Centre for Global Mental Health http://time.com/3822953/vikram-patel-2015-time-100/
+http://www.theguardian.com/commentisfree/2015/may/28/worldwide-sexism-increases-suicide-risk-in-young-women
+ 
+Diversity Breeds Profits
+
+"I think the most diverse group will produce the best product” - Tim Cook
+http://www.macrumors.com/2015/06/08/tim-cook-diversity-future-apple/
+
+"greater diversity boosted revenue by 41 percent."
+Study: Diverse Teams Are More Successful, but Less Happy
+http://www.inc.com/jessica-stillman/more-diversity-means-more-revenue-but-less-happiness.html
+
+ 
+Companies with Women CEO’s more profitable
+
+
+http://fortune.com/2015/03/03/women-led-companies-perform-three-times-better-than-the-sp-500/
+
+ 
+It wasn’t always like this.
+ 
+Pioneers
+-          Ada Lovelace (1840s)
+o   First computer programmer.
+o   https://en.wikipedia.org/wiki/Ada_Lovelace
+-          All six ENIAC Programmers (1940s)
+o   First general purpose computer.
+o   http://www.witi.com/center/witimuseum/halloffame/298369/ENIAC-Programmers-Kathleen-McNulty,-Mauchly-Antonelli,-Jean-Jennings-Bartik,-Frances-Synder-Holber-Marlyn-Wescoff-Meltzer,-Frances-Bilas-Spence-and-Ruth-Lichterman-Teitelbaum/
+-          Grace Hopper (1945)
+o   Invented Compiler
+o   https://en.wikipedia.org/wiki/Grace_Hopper
+-          Erna Schneider Hoover (1967)
+o   “Revolutionized modern communication”
+o   One of the first patents for computer software.
+o   https://en.wikipedia.org/wiki/Erna_Schneider_Hoover
+-          Resources
+o   https://www.women.cs.cmu.edu/ada/Resources/Women/
+o   http://insights.dice.com/women-in-tech-background/
+o   http://onechocolatecomms.co.uk/technology-the-wonder-women-who-made-it-happen/
+ 
+
+What’s happening?
+
+STEM Graduation Rates Plummeting
+
+Women in the Industry Leave
+
+56% of technical women leave at the mid-level point (double that of men).
+http://www.ncwit.org/sites/default/files/legacy/pdf/NCWIT_TheFacts_rev2010.pdf
+
+What to do?
+ 
+-          Codes of Conduct
+o   Open Source Projects
+§  http://contributor-covenant.org/version/1/0/0/
+o   Conferences
+§  http://confcodeofconduct.com/
+§  http://www.ashedryden.com/blog/codes-of-conduct-101-faq
+-          Pair programming?
+o   Maybe, but not 100%
+o   https://users.soe.ucsc.edu/~charlie/pubs/cacm.pdf
+o   https://twitter.com/stubbornella/status/605090973723430912
+-          Women Paid Less
+o   Microsoft anti-pattern (Satya saying women should ask more)
+
+75.8% of Males in Information
+https://en.wikipedia.org/wiki/Gender_pay_gap_in_the_United_States
+But? Nope. Women MBA grads earn over 10% less right out of school.
+http://www.bloomberg.com/bw/articles/2014-11-14/women-make-less-than-men-even-when-they-are-equally-qualified-mbas
+Even Microsoft CEO acknowledges there’s an issue.
+"Our industry must close gender pay gap”
+http://money.cnn.com/2014/10/09/technology/microsoft-ceo/
+Glassdoor data supports it: 6% less for “software development engineer”
+http://www.techrepublic.com/article/glassdoor-report-the-gender-pay-gap-in-tech-is-still-a-problem/
+
+
+
+
+-          More Women Speakers
+o   http://quibb.com/links/will-a-50-50-pledge-help-fix-gender-equality-in-tech/view
+o   https://twitter.com/sandimac/status/604792915492085760
+o    
+-          Family Friendly Policies
+o   Female Participation - US 17th of 22 Wealthy Countries
+§  Decreased significantly probably due to family unfriendly policies
+§  “The U.S. is one of only three countries in the world, along with Papa New Guinea and Oman, lacking guaranteed paid maternity leave for working moms, according to the United Nations.”
+§  http://www.huffingtonpost.com/2014/06/23/white-house-working-parents-policies_n_5518197.html
+o   Netflix paid maternity leave.
+
+-          The Code Manifesto
+o   http://codemanifesto.com/
+o   “Respect Each Other”
+
+Consider Sharing Salary Information
+#talkpay
+http://thinkprogress.org/economy/2015/05/01/3653859/talk-pay/
+
+Voice Concerns
+http://shaunagordon.com/blog/2015/06/08/an-exchange-with-amazon-on-workplace-culture/
+
+
+
+o   “be bold about the kind of change you do want to see, and even bolder about asking for it.”
+§  https://medium.com/thelist/a-room-with-a-view-and-breastfeeding-too-eb1ffd6df085
+
+
+-          Listen and believe.
+-          Check your privilege.
+-          Amplify women’s voices.
+-          It costs less for non-minorities to speak out for minorities.
+-          Social Media Support
+o   #ILookLikeAnEngineer
+o   Kickstarter Campaigns
+-          Ally Info
+Run job postings through
+"rockstar developer" or "development ninja" 
+http://www.bizjournals.com/portland/blog/techflash/2015/02/startup-week-women-minorities-are-in-tech-here-are.html
+http://recode.net/2015/04/20/textio-spell-checks-for-gender-bias/
+
+
+ 
+	• Host team building events during business hours. 
+http://www.bizjournals.com/portland/blog/techflash/2015/02/startup-week-women-minorities-are-in-tech-here-are.html
+
+https://www.flickr.com/photos/theaftershock/3177495635/
+
+Groups Supporting WIT:
+ 
+ 
+Girl Develop It
+https://www.girldevelopit.com/
+https://www.girldevelopit.com/chapters/minneapolis
+https://www.girldevelopit.com/chapters/milwaukee
+https://www.girldevelopit.com/chapters/chicago
+
+Black Girls CODE
+http://www.blackgirlscode.org/
+ 
+Coding While Black
+www.codingwhileblack.com
+ 
+Girls in Tech
+http://www.girlsintech.org/
+http://gitmsp.org/
+Milwaukee
+ 
+Meetup
+http://witi.meetup.com/
+http://witi.meetup.com/cities/us/mn/saint_paul/
+
+TechnovationMN
+http://technovationmn.org
+
+Lesbians Who Tech
+www.lesbianswhotech.org
+ 
+That Conference!
+-          9 year old speaker
+ 
+ 
+Huffington Post:
+http://www.huffingtonpost.com/ivo-lukas/women-tech_b_1583348.html
+(Huffington Post gets more US traffic than Apple, Buzzfeed, Microsoft, and Weather.com.)
+(http://www.alexa.com/topsites/countries/US)
+ 
+Anita Borg Institute
+http://anitaborg.org/
+Runs Grace Hopper Celebration of Women in Computing Event
+ 
+TechWomen
+US Department of State’s Bureay of Educational and Cultural Affairs
+https://www.techwomen.org/
+ 
+National Center for Women & Information Technology (NCWIT)
+https://www.ncwit.org/
+ 
+Women in Technology International(WITI)
+http://www.witi.com/
+ 
+Girls in Tech
+http://www.girlsintech.org/
+ 
+Efforts to improve Conference Diversity:
+ 
+“Diversity Partners for CodeConf 2015”
+https://github.com/blog/2010-diversity-partners-for-codeconf-2015
+ 
+Don't know about boot camps.
+ 
+Ada Institute
+ 
+
+
+
+There’s hope:
+
+Tech Companies Cite Small Gains for Women in Updated Diversity Reports
+http://blogs.wsj.com/digits/2015/06/10/tech-companies-cite-small-gains-for-women-in-updated-diversity-reports/
+
+2013 Dice Survey Found no Wage Gap
+http://www.forbes.com/sites/susanadams/2013/03/20/women-are-now-paid-as-much-as-men-in-tech-study-finds/
+
+Salesforce Makes Strides Toward Gender Equality in Silicon Valley
+https://twitter.com/GenderAvenger/status/626437044470808577
+
+
+Misc:
+ 
+“Blacks, Latinos and women lose ground at Silicon Valley tech companies”
+http://www.mercurynews.com/ci_14383730?source=pkg
+ 
+ 
+“Women don’t like numbers”
+http://clarify.io/blog/women-dont-like-numbers/
+ 
+“Elizabeth Banks' $200 Million Path to Directing 'Pitch Perfect 2'”
+http://www.hollywoodreporter.com/news/elizabeth-banks-200-million-path-791855
+ 
+“Women Are Still Shouldering The Majority Of The Stress Of Having A Child”
+http://thinkprogress.org/economy/2015/06/01/3664565/parents-stress/
+ 
+“Top 13 highest paid female CEOs and how they ranked overall in 2014”
+http://ceoworld.biz/2015/05/22/top-13-highest-paid-female-ceos-and-how-they-ranked-overall-in-2014?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost
+ 
+“How Twitter Users Can Generate Better Ideas”
+(Diversity in Twitter network)
+http://sloanreview.mit.edu/article/how-twitter-users-can-generate-better-ideas/
+
+http://shaunagordon.com/blog/2015/06/08/an-exchange-with-amazon-on-workplace-culture/
+"Diversity and culture is something that we have been discussing in our meetings with upper management” - Amazon
+
+WIT Diversity as tie breaker sufficient?
+https://twitter.com/sarahmei/status/608811344448507904?refsrc=email&s=11
+
+I’m not going to GHC, and neither should you.
+http://blog.randi.io/2015/06/08/im-not-going-to-ghc-and-neither-should-you/
+
+Rosie the Riveter
+https://en.wikipedia.org/wiki/Rosie_the_Riveter
+
+Karma gaffe pic:
+https://twitter.com/dannysullivan/status/520365710128594945
