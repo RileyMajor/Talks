@@ -3,12 +3,14 @@ Talks
 
 Presentation materials (slide decks, demo scripts, references, etc.)
 
-| Date       | Talk                     | Location                                     | URL                                                                     | Notes           |
-|------------|--------------------------|----------------------------------------------|-------------------------------------------------------------------------|-----------------|
-| 2014-09-16 | Correlated Concatenation | PASSMN User Group Meeting                    | http://minnesota.sqlpass.org                                            | Lightning talk. |
-| 2014-10-25 | Pseudo-Constants         | SQL Saturday #332 - Minneapolis              | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053 |                 |
-| 2015-04-11 | Pseudo-Constants         | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735          |                 |
-| 2015-08-12 | Open Up the Clubhouse    | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                    |                 |
+| Date       | Talk                                     | Location                                     | URL                                                                     | Notes                         |
+|------------|------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|-------------------------------|
+| 2014-09-16 | Correlated Concatenation                 | PASSMN User Group Meeting                    | http://minnesota.sqlpass.org                                            | Lightning talk.               |
+| 2014-10-25 | Pseudo-Constants                         | SQL Saturday #332 - Minneapolis              | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053 |                               |
+| 2015-04-11 | Pseudo-Constants                         | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735          |                               |
+| 2015-08-12 | Open Up the Clubhouse                    | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                    |                               |
+| 2015-10-10 | SQL Server 2016 - New Feature Preview    | SQL Saturday #453 - Minneapolis              | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064          |                               |
+| 2015-10-24 | SQL Server 2016 - New Feature Preview    | Twin Cities Code Camp #19                    | http://www.twincitiescodecamp.com/Sessions/Fall2015#s23                 | Repeat (no new materials)     |
 
 ## Abstracts
 
@@ -33,6 +35,16 @@ The percentage of women in technology has fallen steadily since the early 80s. 9
 Teams perform better with diverse viewpoints, so it's in all of our best interests to solve this problem. And of course it's just the right thing to do.
 
 We'll explore some of the challenges women face in technology communities, review ways we can all help improve our environment, and discuss efforts to bring more women into technology led by groups like Girl Develop It.
+
+### SQL Server 2016 - New Feature Preview
+
+Be the first on the block to try the shiny new features coming in SQL Server 2016.
+
+We'll review how you can get up and running with the SQL Server 2016 Community Technology Preview and play with all of the new toys.
+
+Time travel with Temporal Tables. Watch the gears turn with Live Query Statistics. Go shopping in the Query Store. And impress your developer friends with some freshly minted JSON.
+
+Maybe we'll even figure out how to bottle up that new version smell.
 
 ## Bio
 
