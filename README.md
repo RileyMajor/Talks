@@ -6,14 +6,15 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | Date       | Talk                                     | Location                                     | URL                                                                     | Notes                         |
 |------------|------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|-------------------------------|
 | 2014-09-16 | Correlated Concatenation                 | PASSMN User Group Meeting                    | http://minnesota.sqlpass.org                                            | Lightning talk.               |
-| 2014-10-25 | Pseudo-Constants                         | SQL Saturday #332 - Minneapolis              | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053 |                               |
+| 2014-10-25 | Pseudo-Constants                         | SQL Saturday #332 - Minnesota                | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053 |                               |
 | 2015-04-11 | Pseudo-Constants                         | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735          |                               |
 | 2015-08-12 | Open Up the Clubhouse                    | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                    |                               |
-| 2015-10-10 | SQL Server 2016 - New Feature Preview    | SQL Saturday #453 - Minneapolis              | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064          |                               |
+| 2015-10-10 | SQL Server 2016 - New Feature Preview    | SQL Saturday #453 - Minnesota                | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064          |                               |
 | 2015-10-24 | SQL Server 2016 - New Feature Preview    | Twin Cities Code Camp #19                    | http://www.twincitiescodecamp.com/Sessions/Fall2015#s23                 | Repeat (no new materials)     |
 | 2016-08-16 | User-Defined Functions                   | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
 | 2016-08-16 | Tally Tables                             | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
-| 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minneapolis              | http://www.twincitiescodecamp.com/Sessions/Fall2015#s23                 |                               |
+| 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615          | Updated materials             |
+| 2017-04-08 | XML vs JSON - Battle Royale              | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671          |                               |
 
 ## Abstracts
 
@@ -39,7 +40,7 @@ Teams perform better with diverse viewpoints, so it's in all of our best interes
 
 We'll explore some of the challenges women face in technology communities, review ways we can all help improve our environment, and discuss efforts to bring more women into technology led by groups like Girl Develop It.
 
-### SQL Server 2016 - New Feature Preview
+### SQL Server 2016 - New Feature Preview (2015)
 
 Be the first on the block to try the shiny new features coming in SQL Server 2016.
 
@@ -48,6 +49,24 @@ We'll review how you can get up and running with the SQL Server 2016 Community T
 Time travel with Temporal Tables. Watch the gears turn with Live Query Statistics. Go shopping in the Query Store. And impress your developer friends with some freshly minted JSON.
 
 Maybe we'll even figure out how to bottle up that new version smell.
+
+### SQL Server 2016 - New Feature Preview (2016)
+
+SQL Server 2016 is here. Curious what all the hype is about?
+
+We'll take a stroll down memory lane to remind us how far we've come and then explore some of the brand new features.
+
+Time travel with Temporal Tables. Watch the gears turn with Live Query Statistics. Go shopping in the Query Store. And impress your developer friends with some freshly minted JSON.
+
+Maybe we'll even figure out how to bottle up that new version smell.
+
+### XML vs JSON - Battle Royale
+
+Shiny new touch bar MacBook Pro under one arm, JSON strolls in with a coffee from that new place with the ethically sourced beans. Grizzled XML looks up from an old ThinkPad and grunts, remembering that the stained company mug on the cluttered desk had been empty for some time. JSON was sure to be assigned the new web features while XML would be spending another week on those legacy third party integrations...
+
+SQL Server 2016 brings JSON support, but does that mean XML is old news? Which has more features? Do they matter? Which is faster?
+
+We'll review the many similarities and highlight some important differences between SQL Server 2016's XML and JSON support. You'll leave equipped to make the right choice for your environment.
 
 ## Bio
 
