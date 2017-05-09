@@ -10,7 +10,7 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2015-04-11 | Pseudo-Constants                         | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735          |                               |
 | 2015-08-12 | Open Up the Clubhouse                    | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                    |                               |
 | 2015-10-10 | SQL Server 2016 - New Feature Preview    | SQL Saturday #453 - Minnesota                | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064          |                               |
-| 2015-10-24 | SQL Server 2016 - New Feature Preview    | Twin Cities Code Camp #19                    | http://www.twincitiescodecamp.com/Sessions/Fall2015#s23                 | Repeat (no new materials)     |
+| 2015-10-24 | SQL Server 2016 - New Feature Preview    | Twin Cities Code Camp #19                    | https://twincitiescodecamp.com/#/talks/796                              | Repeat (no new materials)     |
 | 2016-08-16 | User-Defined Functions                   | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
 | 2016-08-16 | Tally Tables                             | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
 | 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615          | Updated materials             |
