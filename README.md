@@ -15,6 +15,7 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2016-08-16 | Tally Tables                             | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
 | 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615          | Updated materials             |
 | 2017-04-08 | XML vs JSON - Battle Royale              | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671          |                               |
+| 2017-08-08 | Clean up your campsite!                    | That Conference                              | https://www.thatconference.com/sessions/session/11442                   | 
 
 ## Abstracts
 
@@ -67,6 +68,18 @@ Shiny new touch bar MacBook Pro under one arm, JSON strolls in with a coffee fro
 SQL Server 2016 brings JSON support, but does that mean XML is old news? Which has more features? Do they matter? Which is faster?
 
 We'll review the many similarities and highlight some important differences between SQL Server 2016's XML and JSON support. You'll leave equipped to make the right choice for your environment.
+
+### Clean up your campsite!
+
+#### Refactoring Monolith Database Stored Procedures
+
+Your campsite is a mess. There are "totally safe to burn" plastic wrappers melted in last night's ashes. The roasting sticks are coated with dirt-encrusted marshmallow goo. And some sort of animal went through the trash bag you left out. (Oops.)
+
+We get it. Move fast and break things. Just ship it! But what's left a giant stored procedure with cursors, temp tables, and mystery calculations. It's a big black box that nobody wants to touch. Let's fix that. We'll open the lid on an example monolith and do major surgery. What's left will perform better, be easier to understand, encourage code reuse, and be easier to test.
+
+You might even begin to like writing SQL.
+
+(This talk is geared to developers using Microsoft SQL Server, but many of its principles apply to any RDBMS.)
 
 ## Bio
 
