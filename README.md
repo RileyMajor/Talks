@@ -17,6 +17,8 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2017-04-08 | XML vs JSON - Battle Royale              | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671          |                               |
 | 2017-08-08 | Clean up your campsite!                    | That Conference                              | https://www.thatconference.com/sessions/session/11442                   | 
 
+See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
+
 ## Abstracts
 
 ### Correlated Concatenation
