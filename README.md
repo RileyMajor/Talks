@@ -15,7 +15,8 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2016-08-16 | Tally Tables                             | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
 | 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615          | Updated materials             |
 | 2017-04-08 | XML vs JSON - Battle Royale              | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671          |                               |
-| 2017-08-08 | Clean up your campsite!                    | That Conference                              | https://www.thatconference.com/sessions/session/11442                   | 
+| 2017-08-08 | Clean up your campsite!                  | That Conference                              | https://www.thatconference.com/sessions/session/11442                   |                               |
+| 2018-04-07 | XML vs JSON - Battle Royale              | SQL Saturday #724 - Madison                  | http://www.sqlsaturday.com/724/Sessions/Details.aspx?sid=74463          | Minor materials updates       |
 
 See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
 
@@ -85,4 +86,4 @@ You might even begin to like writing SQL.
 
 ## Bio
 
-Riley Major is an Enterprise Architect at Manna Freight Systems, Inc., of Mendota Heights, MN. He’s been in the trenches with SQL Server for 14 years, focusing mostly on development and architecture. Riley cut his teeth on SQL Server 7, but has been on a syntactical sugar high since SQL Server 2005. He’s written or architected over a half million lines of SQL still in active use. Riley is particularly grateful that technology has saved him from having to use his law degree.
+Riley Major is an Enterprise Architect at Manna Freight Systems, Inc., of Mendota Heights, MN. He’s been in the trenches with SQL Server for 18 years, focusing mostly on development and architecture. Riley cut his teeth on SQL Server 7, but has been on a syntactical sugar high since SQL Server 2005. He’s written or architected over a half million lines of SQL still in active use. Riley is particularly grateful that technology has saved him from having to use his law degree.
