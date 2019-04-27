@@ -1,4 +1,4 @@
-Talks
+﻿Talks
 =====
 
 Presentation materials (slide decks, demo scripts, references, etc.)
@@ -86,4 +86,4 @@ You might even begin to like writing SQL.
 
 ## Bio
 
-Riley Major is an Enterprise Architect at Manna Freight Systems, Inc., of Mendota Heights, MN. He’s been in the trenches with SQL Server for 18 years, focusing mostly on development and architecture. Riley cut his teeth on SQL Server 7, but has been on a syntactical sugar high since SQL Server 2005. He’s written or architected over a half million lines of SQL still in active use. Riley is particularly grateful that technology has saved him from having to use his law degree.
+Riley Major is an Enterprise Architect based in the Twin Cities, MN metro area who enjoys collaborating with business leaders to design technical solutions and working with technology professionals to build them. He's been programming and designing databases since he was a kid and doing so professionally for 20 years. He has a special place in his heart for T-SQL in SQL Server and loves to share that enthusiasm.
