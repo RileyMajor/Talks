@@ -2,3 +2,7 @@
 *.db
 
 *.db:encryptable
+
+*.DS_Store
+*.dbencryptable
+*.ssms_suo

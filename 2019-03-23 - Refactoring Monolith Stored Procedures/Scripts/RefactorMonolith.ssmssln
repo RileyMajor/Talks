@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{253D056C-F55A-4A7D-ADCB-B2F7C9633C1D}"
+	ProjectSection(SolutionItems) = preProject
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\01-DBSetup.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\01-DBSetup.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\02-Monolith.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\02-Monolith.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\03-MonolithRun.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\03-MonolithRun.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\04-MonolithDateFix.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\04-MonolithDateFix.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\05-MonolithRunWithDateFix.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\05-MonolithRunWithDateFix.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\06-MonolithHoist.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\06-MonolithHoist.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\07-MonolithRunWithHoist.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\07-MonolithRunWithHoist.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\08-MonolithFancySQL.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\08-MonolithFancySQL.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\09-MonolithRunWithFancySQL.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\09-MonolithRunWithFancySQL.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\10-MonolithSingleUpdate.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\10-MonolithSingleUpdate.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\11-MonolithRunWithSingleUpdate.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\11-MonolithRunWithSingleUpdate.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\12-MonolithSingleCalcSelect.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\12-MonolithSingleCalcSelect.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\13-MonolithRunWithSingleCalcSelect.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\13-MonolithRunWithSingleCalcSelect.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\14-SeparateProcessing.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\14-SeparateProcessing.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\15-SeparateProcessingRun.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\15-SeparateProcessingRun.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\16-SeparateProcessingNoCursor.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\16-SeparateProcessingNoCursor.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\17-SeparateProcessingNoCursorRun.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\17-SeparateProcessingNoCursorRun.sql
+		\\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\18-TestSuite.sql = \\Mac\Dropbox\Talks\GitHub\Talks\2019-03-23 - Refactoring Monolith Stored Procedures\Scripts\18-TestSuite.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B20EB0-A116-492D-AB51-A5FC36FD6487}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
