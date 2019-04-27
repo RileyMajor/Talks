@@ -19,8 +19,8 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2018-04-07 | XML vs JSON - Battle Royale                                  | SQL Saturday #724 - Madison                  | http://www.sqlsaturday.com/724/Sessions/Details.aspx?sid=74463             | Minor materials updates       |
 | 2019-03-23 | Refactoring Monolith Database Stored Procedures              | SQL Saturday #825 - Chicago                  | https://www.sqlsaturday.com/825/Sessions/Details.aspx?sid=88609            | Minor materials updates       |
 | 2019-04-06 | Refactoring Monolith Database Stored Procedures              | SQL Saturday #842 - Madison                  | https://www.sqlsaturday.com/842/Sessions/Details.aspx?sid=90600            | Minor materials updates       |
-| 2019-04-16 | Refactoring Monolith Database Stored Procedures              | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/260455887/   | Repeat (no new materials)     |
-| 2019-04-27 | Refactoring Monolith Database Stored Procedures              | Minnebar                                     | https://sessions.minnestar.org/                                            | Repeat (no new materials)     |
+| 2019-04-16 | Refactoring Monolith Stored Procedures                       | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/260455887/   | Repeat (no new materials)     |
+| 2019-04-27 | Refactoring Database Stored Procedures                       | Minnebar                                     | https://sessions.minnestar.org/                                            | Repeat (no new materials)     |
 
 See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
 
