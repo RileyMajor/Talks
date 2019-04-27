@@ -3,20 +3,24 @@
 
 Presentation materials (slide decks, demo scripts, references, etc.)
 
-| Date       | Talk                                     | Location                                     | URL                                                                     | Notes                         |
-|------------|------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------|-------------------------------|
-| 2014-09-16 | Correlated Concatenation                 | PASSMN User Group Meeting                    | http://minnesota.sqlpass.org                                            | Lightning talk.               |
-| 2014-10-25 | Pseudo-Constants                         | SQL Saturday #332 - Minnesota                | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053 |                               |
-| 2015-04-11 | Pseudo-Constants                         | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735          |                               |
-| 2015-08-12 | Open Up the Clubhouse                    | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                    |                               |
-| 2015-10-10 | SQL Server 2016 - New Feature Preview    | SQL Saturday #453 - Minnesota                | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064          |                               |
-| 2015-10-24 | SQL Server 2016 - New Feature Preview    | Twin Cities Code Camp #19                    | https://twincitiescodecamp.com/#/talks/796                              | Repeat (no new materials)     |
-| 2016-08-16 | User-Defined Functions                   | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
-| 2016-08-16 | Tally Tables                             | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016       | Lightning Talk                |
-| 2016-10-01 | SQL Server 2016 - New Feature Preview    | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615          | Updated materials             |
-| 2017-04-08 | XML vs JSON - Battle Royale              | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671          |                               |
-| 2017-08-08 | Clean up your campsite!                  | That Conference                              | https://www.thatconference.com/sessions/session/11442                   |                               |
-| 2018-04-07 | XML vs JSON - Battle Royale              | SQL Saturday #724 - Madison                  | http://www.sqlsaturday.com/724/Sessions/Details.aspx?sid=74463          | Minor materials updates       |
+| Date       | Talk                                                         | Location                                     | URL                                                                        | Notes                         |
+|------------|--------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------------------------|-------------------------------|
+| 2014-09-16 | Correlated Concatenation                                     | PASSMN User Group Meeting                    | http://minnesota.sqlpass.org                                               | Lightning talk.               |
+| 2014-10-25 | Pseudo-Constants                                             | SQL Saturday #332 - Minnesota                | http://www.sqlsaturday.com/332/Sessions/Details.aspx?oldsessionid=25053    |                               |
+| 2015-04-11 | Pseudo-Constants                                             | SQL Saturday #387 - Madison                  | http://www.sqlsaturday.com/387/Sessions/Details.aspx?sid=21735             |                               |
+| 2015-08-12 | Open Up the Clubhouse                                        | That Conference                              | https://www.thatconference.com/Sessions/Session/7065                       |                               |
+| 2015-10-10 | SQL Server 2016 - New Feature Preview                        | SQL Saturday #453 - Minnesota                | http://www.sqlsaturday.com/453/sessions/details.aspx?sid=40064             |                               |
+| 2015-10-24 | SQL Server 2016 - New Feature Preview                        | Twin Cities Code Camp #19                    | https://twincitiescodecamp.com/#/talks/796                                 | Repeat (no new materials)     |
+| 2016-08-16 | User-Defined Functions                                       | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016          | Lightning Talk                |
+| 2016-08-16 | Tally Tables                                                 | PASSMN User Group Meeting                    | https://mnssug.org/Announcement?itemType=PASSMNMeetings&year=2016          | Lightning Talk                |
+| 2016-10-01 | SQL Server 2016 - New Feature Preview                        | SQL Saturday #557 - Minnesota                | http://www.sqlsaturday.com/557/Sessions/Details.aspx?sid=53615             | Updated materials             |
+| 2017-04-08 | XML vs JSON - Battle Royale                                  | SQL Saturday #604 - Madison                  | http://www.sqlsaturday.com/604/Sessions/Details.aspx?sid=62671             |                               |
+| 2017-08-08 | Clean up your campsite!                                      | That Conference                              | https://www.thatconference.com/sessions/session/11442                      |                               |
+| 2018-04-07 | XML vs JSON - Battle Royale                                  | SQL Saturday #724 - Madison                  | http://www.sqlsaturday.com/724/Sessions/Details.aspx?sid=74463             | Minor materials updates       |
+| 2019-03-23 | Refactoring Monolith Database Stored Procedures              | SQL Saturday #825 - Chicago                  | https://www.sqlsaturday.com/825/Sessions/Details.aspx?sid=88609            | Minor materials updates       |
+| 2019-04-06 | Refactoring Monolith Database Stored Procedures              | SQL Saturday #842 - Madison                  | https://www.sqlsaturday.com/842/Sessions/Details.aspx?sid=90600            | Minor materials updates       |
+| 2019-04-16 | Refactoring Monolith Database Stored Procedures              | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/260455887/   | Repeat (no new materials)     |
+| 2019-04-27 | Refactoring Monolith Database Stored Procedures              | Minnebar                                     | https://sessions.minnestar.org/                                            | Repeat (no new materials)     |
 
 See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
 
@@ -74,7 +78,7 @@ We'll review the many similarities and highlight some important differences betw
 
 ### Clean up your campsite!
 
-#### Refactoring Monolith Database Stored Procedures
+#### Refactoring Monolith Database Stored Procedures (That Conference)
 
 Your campsite is a mess. There are "totally safe to burn" plastic wrappers melted in last night's ashes. The roasting sticks are coated with dirt-encrusted marshmallow goo. And some sort of animal went through the trash bag you left out. (Oops.)
 
@@ -83,6 +87,12 @@ We get it. Move fast and break things. Just ship it! But what's left a giant sto
 You might even begin to like writing SQL.
 
 (This talk is geared to developers using Microsoft SQL Server, but many of its principles apply to any RDBMS.)
+
+### Refactoring Monolith Database Stored Procedures
+
+#### (SQLSaturday version)
+
+We get it. Move fast and break things. Just ship it! But what's left a giant stored procedure with cursors, temp tables, and mystery calculations. It's a big black box that nobody wants to touch. Let's fix that. We'll open the lid on an example monolith and do major surgery. What's left will perform better, be easier to understand, encourage code reuse, and be easier to test.
 
 ## Bio
 
