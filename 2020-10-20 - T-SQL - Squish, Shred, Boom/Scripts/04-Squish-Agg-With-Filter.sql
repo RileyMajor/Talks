@@ -17,7 +17,7 @@ FROM		Customers;
 
 /*
 
-	Show top 5 customers by order countstarting with A.
+	Show top 5 customers by order count starting with M.
 
 	Note that these might not return the same data,
 		because only 1 level of sorting is specified and ties for the last record will be split arbitrarily.

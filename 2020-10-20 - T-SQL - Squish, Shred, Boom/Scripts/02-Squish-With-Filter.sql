@@ -67,9 +67,9 @@ WHERE		c.Customer LIKE 'Ad%'
 ORDER BY	c.CustomerID;
 
 
-PRINT CHAR(13) + CHAR(10) + '************************************* ' + 'Window then JOIN';
+PRINT CHAR(13) + CHAR(10) + '************************************* ' + 'Window then JOIN with Filter';
 
-SELECT					/* Window then JOIN */
+SELECT					/* Window then JOIN with Filter */
 	c.Customer,
 	c.CustomerEmail,
 	o.OrderDate,
@@ -83,6 +83,30 @@ JOIN		(
 			) AS o
 ON			o.CustomerID = c.CustomerID
 AND			o.CustOrder = 1
+WHERE		c.Customer LIKE 'Ad%'
+ORDER BY	c.CustomerID;
+
+PRINT CHAR(13) + CHAR(10) + '************************************* ' + 'Window with Filter then JOIN';
+
+SELECT					/* Window then Filter then JOIN */
+	c.Customer,
+	c.CustomerEmail,
+	o.OrderDate,
+	o.OrderStatusID
+FROM		Customers AS c
+JOIN		(
+				SELECT
+					*
+				FROM		(
+								/* You can't filter by a window function. You have to wrap it in another layer of derived table. */
+								SELECT
+									CustOrder = RANK() OVER (PARTITION BY o2.CustomerID ORDER BY o2.OrderDate DESC),
+									*
+								FROM		Orders o2
+							) AS OrdersWithRank
+				WHERE		OrdersWithRank.CustOrder = 1
+			) AS o
+ON			o.CustomerID = c.CustomerID
 WHERE		c.Customer LIKE 'Ad%'
 ORDER BY	c.CustomerID;
 

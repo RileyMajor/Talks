@@ -21,6 +21,8 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2019-04-06 | Refactoring Monolith Database Stored Procedures              | SQL Saturday #842 - Madison                  | https://www.sqlsaturday.com/842/Sessions/Details.aspx?sid=90600            | Minor materials updates       |
 | 2019-04-16 | Refactoring Monolith Stored Procedures                       | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/260455887/   | Repeat (no new materials)     |
 | 2019-04-27 | Refactoring Database Stored Procedures                       | Minnebar                                     | https://sessions.minnestar.org/                                            | Repeat (no new materials)     |
+| 2019-10-12 | Pseudo-Constants                                             | SQL Saturday #913 - Minnesota                | https://www.sqlsaturday.com/913/Sessions/Details/sid/96622                 | Repeat (little new material)  |
+| 2020-10-20 | T-SQL - Squish. Shred. Boom.                                 | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/273978358/   | Remote                        |
 
 See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
 
@@ -93,6 +95,16 @@ You might even begin to like writing SQL.
 #### (SQLSaturday version)
 
 We get it. Move fast and break things. Just ship it! But what's left a giant stored procedure with cursors, temp tables, and mystery calculations. It's a big black box that nobody wants to touch. Let's fix that. We'll open the lid on an example monolith and do major surgery. What's left will perform better, be easier to understand, encourage code reuse, and be easier to test.
+
+### T-SQL: Squish. Shred. Boom.
+
+Sure, you've written a SELECT or two in your day. Maybe there's a gnarly beast in your past with dozens of tables and sub-queries that you'd rather not think about. But have you really thought about all the ways you can morph data with a humble SQL statement?
+
+Got too many rows? Squish them down. Got a big ball of text? Shred it into the little bits you need. Just not enough data? Blow it up. Boom! Who knew T-SQL could be so violent?
+
+Together we'll explore derived tables, sub-queries, APPLY clauses, and window functions. But wait, there's more. How about a double string-split? We'll even dust off our disused friend CROSS JOIN.
+
+You'll leave with an appreciation of just how much you can do with a single T-SQL statement.
 
 ## Bio
 
