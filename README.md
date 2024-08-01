@@ -23,6 +23,7 @@ Presentation materials (slide decks, demo scripts, references, etc.)
 | 2019-04-27 | Refactoring Database Stored Procedures                       | Minnebar                                     | https://sessions.minnestar.org/                                            | Repeat (no new materials)     |
 | 2019-10-12 | Pseudo-Constants                                             | SQL Saturday #913 - Minnesota                | https://www.sqlsaturday.com/913/Sessions/Details/sid/96622                 | Repeat (little new material)  |
 | 2020-10-20 | T-SQL - Squish. Shred. Boom.                                 | PASSMN User Group                            | https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/events/273978358/   | Remote                        |
+| 2024-07-31 | Write More Testable T-SQL                                    | That Conference                              | https://thatconference.com/activities/U19GznjhKtAPTgLeu9I4                 |                               |
 
 See also [Scribnasium blog Talks page](https://scribnasium.com/talks/).
 
@@ -106,6 +107,23 @@ Together we'll explore derived tables, sub-queries, APPLY clauses, and window fu
 
 You'll leave with an appreciation of just how much you can do with a single T-SQL statement.
 
+### Write More Testable T-SQL
+
+If you've worked with a legacy business application, you've probably encountered database stored procedures, and they've probably been a fragile, scary mess. They typically have hundreds of lines of procedural code with many branches, convoluted logic, and overloaded variables. And there's no way to test anything because running the procedure makes all sorts of changes.
+
+You might think that's just the way things are done in a database and there's no fixing it.
+
+But I can tell you there is a better way.
+
+You can move all of that logic into composable, testable components. You can test your code without risking any data modification. You can even quickly generate thousands of tests which will show the business exactly how your code will behave in every conceivable scenario.
+
+Once you experience SQL done right, you might even grow to like it.
+
+#### Take Aways
+* Learn to encapsulate business logic.
+* Learn a method for mass testing of business logic.
+* Learn to make more reusable, composable database code.
+
 ## Bio
 
-Riley Major is an Enterprise Architect based in the Twin Cities, MN metro area who enjoys collaborating with business leaders to design technical solutions and working with technology professionals to build them. He's been programming and designing databases since he was a kid and doing so professionally for 20 years. He has a special place in his heart for T-SQL in SQL Server and loves to share that enthusiasm.
+Riley Major is an Enterprise Architect based in the Twin Cities, MN metro area who enjoys collaborating with business leaders to design technical solutions and working with technology professionals to build them. He's been programming and designing databases since he was a kid and doing so professionally for 25 years. He has a special place in his heart for T-SQL in SQL Server and loves to share that enthusiasm.
